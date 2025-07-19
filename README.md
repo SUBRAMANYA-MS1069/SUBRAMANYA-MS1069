@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a learner
+I'm a learner 
+I am eager to use my skills and hands-on experience to contribute to a dynamic development team
 
 
 ## 🌐 Socials:
